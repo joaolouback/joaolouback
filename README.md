@@ -18,8 +18,8 @@ Connect with me:
 
   ##
 
-<div align="center">
+
 
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolouback&layout=compact&theme=dracula"/>
-</div>
+
 
