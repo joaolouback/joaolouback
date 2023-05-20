@@ -5,7 +5,7 @@
 
 - 💻 Committed to continuous improvement of my programming skills.
 - 💡 Exploring and mastering various programming languages.
-- 👨‍💻 Focused on enhancing my programming skills.
+- 🔍 Buscando estágio ou oportunidades práticas para ganhar experiência prática.
 
 ##
 
