@@ -11,7 +11,7 @@
 
 ## 🚀 Skills
 
-<div style="display: flex; ">
+
   
 <table>
   <tr>
@@ -31,8 +31,7 @@
     <td><b>SQL:</b> Nível Intermediário</td>
   </tr>
 </table>
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolouback&layout=compact&theme=dark"/>
-</div>
+
 
 
 
