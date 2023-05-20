@@ -4,8 +4,8 @@
   I'm a programming student in the field of computer science.
 
 - 💻 Committed to continuous improvement of my programming skills.
-- 💡 Exploring and mastering various programming languages.
-- 🔍 Buscando estágio ou oportunidades práticas para ganhar experiência prática.
+- 💡  Exploring and mastering various programming languages.
+- 🔍 Seeking internship or practical opportunities to gain experience.
 
 ##
 
