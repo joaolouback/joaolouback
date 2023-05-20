@@ -1,11 +1,11 @@
 ## Hi, i'm João Pedro 😀
 
 
- I'm a programming student
+  I'm a programming student in the field of computer science.
 
-- 💻 Currently studying computer science
-- 😉 Improving front-end skills
-- 😎 Seeking to evolve every day
+- 💻 Committed to continuous improvement of my programming skills.
+- 💡 Exploring and mastering various programming languages.
+- 👨‍💻 Focused on enhancing my programming skills.
 
 ##
 
