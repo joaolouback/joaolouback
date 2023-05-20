@@ -10,6 +10,9 @@
 ##
 
 ## 🚀 Skills
+
+<div style="display: flex; ">
+  
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 badge" /></td>
@@ -23,13 +26,17 @@
     <td><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript badge" /></td>
     <td><b>JavaScript:</b> Nível Básico</td>
   </tr>
+ <tr>
+    <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL badge" /></td>
+    <td><b>SQL:</b> Nível Intermediário</td>
+  </tr>
 </table>
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolouback&layout=compact&theme=dark"/>
+</div>
 
 
-##
 
 
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolouback&layout=compact&theme=tokyonight"/>
 
 ##
   
