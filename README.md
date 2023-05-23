@@ -9,35 +9,7 @@
 
 ##
 
-## 🚀 Skills
 
-
-  
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 badge" /></td>
-    <td><b>HTML5:</b> Nível Intermediário</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 badge" /></td>
-    <td><b>CSS3:</b> Nível Intermediário</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript badge" /></td>
-    <td><b>JavaScript:</b> Nível Básico</td>
-  </tr>
- <tr>
-    <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL badge" /></td>
-    <td><b>SQL:</b> Nível Intermediário</td>
-  </tr>
-</table>
-
-
-
-
-
-
-##
   
  Connect with me:
 
