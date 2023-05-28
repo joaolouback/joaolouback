@@ -5,7 +5,7 @@
 
 - ` 💻 Committed to continuous improvement of my programming skills and always eager to learn new technologies.`
 
-- ` 💡 Exploring and mastering various programming languages to broaden my knowledge and enhance my problem-solving abilities.`
+- ` 📚 Exploring and mastering various programming languages to broaden my knowledge and enhance my problem-solving abilities.`
 
 
 ## Technologies and Skills
