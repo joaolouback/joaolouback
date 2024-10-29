@@ -7,17 +7,14 @@
 
 - ` 📚 Exploring and mastering various programming languages to broaden my knowledge and enhance my problem-solving abilities.`
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolouback&layout=donut&theme=tokyonight&langs_count=8&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies and Skills
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
-</div>
-  
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,java,c,python,react,figma,mysql,firebase,git,vscode"/>
  
+</div>
   
 ## Connect with me:
 
