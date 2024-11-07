@@ -7,7 +7,7 @@
 
 - ` 📚 Exploring and mastering various programming languages to broaden my knowledge and enhance my problem-solving abilities.`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolouback&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolouback&layout=compact)](https://github.com/joaolouback/github-readme-stats)
 
 
 ## Technologies and Skills
