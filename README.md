@@ -13,9 +13,9 @@
 ## Technologies and Skills
 
 <div style="display: inline_block">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,java,c,python,react"/>
+  <img align="center" src="https://skillicons.dev/icons?i=javascript,java,c,cpp,python,react"/>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" src="https://skillicons.dev/icons?i=mysql,figma,firebase,git,vscode"/>
+  <img align="center" src="https://skillicons.dev/icons?i=mysql,figma,firebase,git,vscode,linux"/>
 </div>
   
 ## Connect with me:
