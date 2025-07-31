@@ -1,27 +1,51 @@
-# Hi, i'm João Pedro 😀
+# 👋 Hi, I'm João Pedro 😀
 
+🎓 I'm a Computer Science student and aspiring DevOps Engineer, passionate about **technology, automation, and process optimization**.
 
-  `I'm a programming student in the field of computer science.`
+---
 
-- ` 💻 Committed to continuous improvement of my programming skills and always eager to learn new technologies.`
+## 🚀 About Me
 
-- ` 📚 Exploring and mastering various programming languages to broaden my knowledge and enhance my problem-solving abilities.`
+- 💻 Focused on **automation**, **DevOps practices**, and **backend development**.
+- 🔄 Enthusiast of CI/CD pipelines, infrastructure as code (IaC), and containerization.
+- 🧠 Continuously learning and evolving with new technologies, tools, and best practices.
+- 🛠️ Driven by the challenge of making systems more **scalable**, **reliable**, and **efficient**.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolouback&show_icons=true&locale=en&layout=compact" alt="joaolouback"/>
+---
 
+## 📊 Most Used Languages
 
-## Technologies and Skills
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolouback&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
+---
+
+## 🛠️ Technologies and Skills
 
 <div style="display: inline_block">
-  <img align="center" src="https://skillicons.dev/icons?i=javascript,java,c,cpp,python,react"/>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" src="https://skillicons.dev/icons?i=mysql,figma,firebase,git,vscode,linux"/>
-</div>
   
-## Connect with me:
+<!-- Programming Languages -->
+<img align="center" src="https://skillicons.dev/icons?i=python,selenium,javascript,nodejs" title="Python, Selenium, JavaScript, Node.js" />
+
+<!-- DevOps & Cloud -->
+<img align="center" src="https://skillicons.dev/icons?i=docker,linux,git" title="Docker, Linux, Git" />
+
+
+</div>
+
+
+
+---
+
+## 📫 Connect with Me
 
 <div>
-  <a href="https://www.instagram.com/jpestevao_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopedrobr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/jpestevao_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/joaopedrobr/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+
+
 
