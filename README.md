@@ -1,33 +1,28 @@
 # 👋 Hi, I'm João Pedro 😀
 
-🎓 I'm a Computer Science student and aspiring DevOps Engineer, passionate about **technology, automation, and process optimization**.
+🎓 I'm a Computer Science student with a strong focus on **automation of processes** and **IT infrastructure**.  
+🔧 Passionate about creating efficient workflows, automating tasks, and improving system reliability.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Focused on **automation**, **DevOps practices**, and **backend development**.
-- 🔄 Enthusiast of CI/CD pipelines, infrastructure as code (IaC), and containerization.
-- 🧠 Continuously learning and evolving with new technologies, tools, and best practices.
-- 🛠️ Driven by the challenge of making systems more **scalable**, **reliable**, and **efficient**.
+- ⚙️ Focused on **process automation** and **infrastructure management**.
+- 🔄 Interested in CI/CD pipelines, scripting, and containerization with Docker.
+- 🧠 Always learning and evolving with tools that enhance efficiency and scalability.
+- 🛠️ Motivated to simplify operations through automation and modern DevOps practices.
 
 ---
 
-
-## 🛠️ Technologies and Skills
+## 🛠️ Technologies and Tools
 
 <div style="display: inline_block">
-  
-<!-- Programming Languages -->
-<img align="center" src="https://skillicons.dev/icons?i=python,selenium,javascript,nodejs" title="Python, Selenium, JavaScript, Node.js" />
 
-<!-- DevOps & Cloud -->
+<!-- Core Automation & Infra Tools -->
+<img align="center" src="https://skillicons.dev/icons?i=python,selenium,js,nodejs,postman" title="Python, Selenium, Bash" />
 <img align="center" src="https://skillicons.dev/icons?i=docker,linux,git" title="Docker, Linux, Git" />
 
-
 </div>
-
-
 
 ---
 
@@ -41,6 +36,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
-
-
