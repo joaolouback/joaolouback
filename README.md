@@ -1,7 +1,9 @@
 # 👋 Hi, I'm João Pedro 😀
 
-🎓 I'm a Computer Science student with a strong focus on **Software Development** and **Process Automation**.
-🔧 Passionate about building scalable solutions, automating tasks, and creating efficient workflows.
+- 🎓 I'm a Computer Science student with a strong focus on **Software Development** and **Process Automation**.
+- 🔧 Passionate about building scalable solutions, automating tasks, and creating efficient workflows.
+
+  
 ---
 
 ## 🚀 About Me
@@ -18,8 +20,8 @@
 <div style="display: inline_block">
 
 <!-- Core Automation & Infra Tools -->
-<img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,postman" title="Python, Bash" />
-<img align="center" src="https://skillicons.dev/icons?i=docker,linux,git" title="Docker, Linux, Git" />
+<img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,postman,azure" title="Python, Bash" />
+<img align="center" src="https://skillicons.dev/icons?i=docker,linux,gitlab" title="Docker, Linux" />
 
 </div>
 
