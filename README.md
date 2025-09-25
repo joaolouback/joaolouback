@@ -20,8 +20,8 @@
 <div style="display: inline_block">
 
 <!-- Core Automation & Infra Tools -->
-<img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,postman,azure" title="Python, Bash" />
-<img align="center" src="https://skillicons.dev/icons?i=docker,linux,gitlab" title="Docker, Linux" />
+<img align="center" src="https://skillicons.dev/icons?i=python,js,nodejs,postman,azure" />
+<img align="center" src="https://skillicons.dev/icons?i=docker,linux,gitlab" />
 
 </div>
 
